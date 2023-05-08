@@ -1,14 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # movieland
 =======
 # Getting Started with Create React App
+=======
+#React Movie Land Project
+>>>>>>> 0df8e31 (second push)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+use fetch to get Online Movie Database in RapidAPI
 
-## Available Scripts
 
-In the project directory, you can run:
+![My Remote Image](https://i.imgur.com/CeYIkM0.jpg)
 
+<<<<<<< HEAD
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -72,3 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> fd99f0c (Initialize project using Create React App)
+=======
+>>>>>>> 0df8e31 (second push)
